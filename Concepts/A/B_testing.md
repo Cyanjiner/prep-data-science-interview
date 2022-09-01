@@ -50,4 +50,4 @@ Then, you will examine how did these users from two groups respond differently i
 ![audacity example](2022-09-01-02-42-28.png)
 
 ### Defining the hypothesis
-Initial hypothesis: 
+Initial hypothesis: sss
